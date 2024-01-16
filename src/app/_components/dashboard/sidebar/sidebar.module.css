@@ -24,5 +24,17 @@
 
 }
 .userTitle{
-    background-color: var(--bgSoft);
+    color: var(--bgSoft);
+    font-size: 1rem;
+}
+
+.list{
+    list-style-type: none;
+}
+
+.cat{
+    color: var(--textSoft);
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 10px 0px;
 }
